@@ -1,5 +1,5 @@
 
-<h3 align="center">Frontend Developer | Mobile App Creator | Bot Enthusiast</h3>
+<h3 align="center">Programly</h3>
 
 ---
 
