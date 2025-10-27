@@ -5,12 +5,12 @@
 
 ### About
 
-I’m a passionate **Frontend Developer** and **Mobile App Builder** with a focus on crafting clean, responsive, and user-friendly interfaces.  
+**Frontend Developer** and **Mobile App Builder** with a focus on crafting clean, responsive, and user-friendly interfaces.  
 I enjoy turning ideas into reality through code — whether it's building mobile apps, sleek websites, or smart bots.
 
-🔹 Experienced in developing **Discord** and **Telegram** bots  
-🔹 Building cross-platform apps using **React Native** & **Expo**  
-🔹 Designing web interfaces with modern JavaScript frameworks  
+• Experienced in developing **Discord** and **Telegram** bots  
+• Building cross-platform apps using **React Native** & **Expo**  
+• Designing web interfaces with modern JavaScript frameworks  
 
 ---
 
