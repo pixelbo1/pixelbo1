@@ -30,8 +30,8 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 ## Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=8pam&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8pam&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=programlygg&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programlygg&layout=compact&theme=tokyonight" />
 </p>
 
 
