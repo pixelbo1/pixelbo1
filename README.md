@@ -14,16 +14,64 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 
 ---
 
-### Tech Stack & Tools
+# 🚀 Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+## 🧠 Programming Languages
+<details>
+  <summary>Show</summary>
+
+- Python  
+- JavaScript  
+- TypeScript
+
+</details>
+
+---
+
+## 🎨 Web Essentials
+<details>
+  <summary>Show</summary>
+
+- HTML  
+- CSS
+
+</details>
+
+---
+
+## ⚙️ Runtime & Environment
+<details>
+  <summary>Show</summary>
+
+- Node.js
+
+</details>
+
+---
+
+## 🧩 Frameworks & Libraries
+<details>
+  <summary>Show</summary>
+
+### Web
+- React  
+- Vue.js
+
+### Mobile
+- React Native
+
+</details>
+
+---
+
+## 🛠️ Tools & Platforms
+<details>
+  <summary>Show</summary>
+
+- Vite  
+- Expo
+
+</details>
 
 ---
 
