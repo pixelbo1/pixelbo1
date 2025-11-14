@@ -1,27 +1,24 @@
-
 <h3 align="center">Programly</h3>
 
 ---
 
 ### About
 
-**Frontend Developer** and **Mobile App Builder** with a focus on crafting clean, responsive, and user-friendly interfaces.  
-I enjoy turning ideas into reality through code — whether it's building mobile apps, sleek websites, or smart bots.
-
-• Experienced in developing **Discord** and **Telegram** bots  
-• Building cross-platform apps using **React Native** & **Expo**  
-• Designing web interfaces with modern JavaScript frameworks  
+- Experienced in creating **Discord** and **Telegram** bots  
+- Building cross-platform mobile apps with **React Native** & **Expo**  
+- Developing modern, dynamic web interfaces with JavaScript frameworks  
 
 ---
 
-# Skills
+## Skills
 
 <details>
   <summary>Programming Languages</summary>
+  <br/>
 
-- Python  
-- JavaScript  
-- TypeScript
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45"/>
 
 </details>
 
@@ -29,9 +26,10 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 
 <details>
   <summary>Web Essentials</summary>
+  <br/>
 
-- HTML  
-- CSS
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
 
 </details>
 
@@ -39,8 +37,9 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 
 <details>
   <summary>Runtime</summary>
+  <br/>
 
-- Node.js
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
 
 </details>
 
@@ -48,9 +47,10 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 
 <details>
   <summary>Frameworks & Libraries</summary>
+  <br/>
 
-- React  
-- Vue.js
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45"/>
 
 </details>
 
@@ -58,8 +58,9 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 
 <details>
   <summary>Tools</summary>
+  <br/>
 
-- Vite  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" height="45"/>
 
 </details>
 
@@ -71,7 +72,3 @@ I enjoy turning ideas into reality through code — whether it's building mobile
   <img src="https://github-readme-stats.vercel.app/api?username=pixelbo1&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelbo1&layout=compact&theme=tokyonight" />
 </p>
-
-
-
-
