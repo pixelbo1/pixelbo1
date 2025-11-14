@@ -14,11 +14,10 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 
 ---
 
-# 🚀 Tech Stack
+# Skills
 
-## 🧠 Programming Languages
 <details>
-  <summary>Show</summary>
+  <summary>Programming Languages</summary>
 
 - Python  
 - JavaScript  
@@ -28,9 +27,8 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 
 ---
 
-## 🎨 Web Essentials
 <details>
-  <summary>Show</summary>
+  <summary>Web Essentials</summary>
 
 - HTML  
 - CSS
@@ -39,9 +37,8 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 
 ---
 
-## ⚙️ Runtime & Environment
 <details>
-  <summary>Show</summary>
+  <summary>Runtime</summary>
 
 - Node.js
 
@@ -49,27 +46,20 @@ I enjoy turning ideas into reality through code — whether it's building mobile
 
 ---
 
-## 🧩 Frameworks & Libraries
 <details>
-  <summary>Show</summary>
+  <summary>Frameworks & Libraries</summary>
 
-### Web
 - React  
 - Vue.js
-
-### Mobile
-- React Native
 
 </details>
 
 ---
 
-## 🛠️ Tools & Platforms
 <details>
-  <summary>Show</summary>
+  <summary>Tools</summary>
 
 - Vite  
-- Expo
 
 </details>
 
