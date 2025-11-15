@@ -4,9 +4,9 @@
 
 ### About
 
-- Experienced in creating **Discord** and **Telegram** bots  
-- Building cross-platform mobile apps with **React Native** & **Expo**  
 - Developing modern, dynamic web interfaces with JavaScript frameworks  
+- Building cross-platform mobile apps with **React Native** & **Expo**  
+- Experienced in creating **Discord** and **Telegram** bots  
 
 ---
 
